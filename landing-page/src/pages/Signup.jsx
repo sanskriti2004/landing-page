@@ -36,8 +36,10 @@ const Signup = () => {
     localStorage.setItem("reactInternship", JSON.stringify(userData));
 
     setTimeout(() => {
-      navigate("/profile");
-    }, 300);
+      navigate("/profile", {
+        state: { fullName, email },
+      });
+    }, 100);
   };
 
   return (
