@@ -26,12 +26,12 @@ const Profile = () => {
         <div className="pl-[20px] flex gap-5 mt-[30px]">
           <div className="relative">
             <img
-              src="../src/assets/profile_pic.png"
+              src="/assets/profile_pic.png"
               className="h-[76px] w-[76px] rounded-full"
               alt="Profile IMG"
             />
             <img
-              src="../src/assets/camera.png"
+              src="./assets/camera.png"
               className="absolute h-[23px] w-[23px] right-0 bottom-0"
               alt="Camera Icon"
             />
