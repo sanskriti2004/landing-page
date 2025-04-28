@@ -1,4 +1,3 @@
-
 # PopX - Account Management App
 
 ## Project Description
@@ -8,6 +7,8 @@
 ---
 
 ## Features
+
+https://github.com/user-attachments/assets/6260e21a-3924-466b-b692-935d3473a71f
 
 - **Create an Account**: Users can register by entering their full name, phone number, email, and password.
 - **Login**: Users can log in with their registered email and password.
