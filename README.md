@@ -3,7 +3,7 @@
 
 ## Project Description
 
-**PopX** is a web application built with **React.js** that allows users to create an account, log in, and view their profile. This project was developed to demonstrate my understanding of frontend development and ReactJS. The app features a user authentication flow with a simple user interface and the ability to store user data in local storage.
+**PopX** is a web application built with **React.js** that allows users to create an account, log in, and view their profile (recommended to zoom out in case of overflow). This project was developed to demonstrate my understanding of frontend development and ReactJS. The app features a user authentication flow with a simple user interface and the ability to store user data in local storage.
 
 ---
 
