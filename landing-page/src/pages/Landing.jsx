@@ -30,13 +30,13 @@ const Landing = () => {
         <div className="flex flex-col justify-center items-center mb-[41px] ">
           <button
             onClick={handleSignupClick}
-            className="text-[18px] cursor-pointer w-[335px] h-[46px] bg-[#6C25FF] rounded-[6px] opacity-100"
+            className="text-[16px] cursor-pointer w-[335px] h-[46px] text-[#FFFFFF] bg-[#6C25FF] rounded-[6px] opacity-100 font-medium"
           >
             Create Account
           </button>
           <button
             onClick={handleLoginClick}
-            className="text-[18px] cursor-pointer w-[335px] h-[46px] bg-[#6C25FF4B] rounded-[6px] mt-[10px] opacity-100"
+            className="text-[16px] cursor-pointer w-[335px] h-[46px] bg-[#6C25FF4B] rounded-[6px] mt-[10px] opacity-100 font-medium"
           >
             Already Registered? Login
           </button>
